@@ -1,0 +1,9 @@
+.input-field input[type="search"]:focus {
+    background-color: rgba(185, 54, 54, 0);
+    border: 0;
+    box-shadow: none;
+    color: #F6F9F6;
+}
+.input-field input[type=search]:focus + label i, .input-field input[type=search]:focus  .mdi-navigation-close, .input-field input[type=search]:focus  .material-icons {
+    color: #F6F9F6;
+}
