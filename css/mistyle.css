@@ -1,5 +1,5 @@
 .input-field input[type="search"]:focus {
-    background-color: rgba(185, 54, 54, 0);
+    background-color: #f1bd0b;
     border: 0;
     box-shadow: none;
     color: #F6F9F6;
